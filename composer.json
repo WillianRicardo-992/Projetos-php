@@ -1,0 +1,17 @@
+{
+    "name": "ricar/projeto",
+    "description": "Projeto de Testes",
+    "autoload": {
+        "psr-4": {
+            "Ricar\\Projeto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Willian Ricardo",
+            "email": "willianricardoleal@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
